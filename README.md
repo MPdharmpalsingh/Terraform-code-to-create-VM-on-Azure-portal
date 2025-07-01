@@ -1,0 +1,1 @@
+# Terraform-code-to-create-VM-on-Azure-portal
